@@ -1,0 +1,19 @@
+This project uses the Credit Card Fraud Detection dataset published by the Machine Learning Group on Kaggle.
+
+📌 Source: Kaggle - Credit Card Fraud Detection
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+🧾 Description:
+
+Contains 19898 credit card transactions made in September 2013 by European cardholders.
+Out of all transactions, 492 are frauds (≈ 0.172% of the dataset).
+
+🔐 Anonymized Features:
+
+Features V1 to V28 are the result of a PCA (Principal Component Analysis) transformation to protect confidentiality.
+Only Time, Amount, and Class remain in their original form.
+
+🎯 Target Label:
+
+Class = 0: Legitimate transaction
+Class = 1: Fraudulent transaction
